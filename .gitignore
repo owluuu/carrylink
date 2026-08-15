@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.env
+.env.local
+.env.*.local
+
+*.pem
+*.key
+
+.DS_Store
+
+coverage/
+
+dist/
+build/
+
+.vscode/
